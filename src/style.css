@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+p {
+  text-align: center;
+  margin-top: 111px;
+  font-size: 44px;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 22px;
+}
